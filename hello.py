@@ -4,4 +4,8 @@ and prints 'hello <name>' to the console
 """
 
 def hello(name):
-    ...
+    """
+    Author: Vik
+    """
+
+    print(f'Hello {name}!')
